@@ -15,6 +15,7 @@ public class ExtractMethod {
         return result;
     }
 
+    //after refactor
     public int getNum2(int day) {
         int result;
         result = calculateDay(day);
